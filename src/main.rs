@@ -1,3 +1,6 @@
+use basic::simple_program::*;
+
 fn main() {
-    println!("Hello, world!");
+    greeting();
+    
 }
