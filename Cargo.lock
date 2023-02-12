@@ -7,8 +7,13 @@ name = "basic"
 version = "0.1.0"
 
 [[package]]
+name = "ownership"
+version = "0.1.0"
+
+[[package]]
 name = "tos-rust"
 version = "0.1.0"
 dependencies = [
  "basic",
+ "ownership",
 ]
